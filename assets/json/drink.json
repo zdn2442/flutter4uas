@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "msg": "List Minuman Ditemukan",
+    "data": {
+        "count": 1,
+        "rows": [
+            {
+                "id": 1,
+                "nama": "Virgin Mojito",
+                "gambar": "https://firebasestorage.googleapis.com/v0/b/storage-e885e.appspot.com/o/hoppppp%204-1.png?alt=media&token=8f04139d-6516-4d2b-994f-c4d71bac1229",
+                "idKategori": 2,
+                "waktu": "25 min",
+                "kesulitan": "Medium",
+                "like": 500,
+                "rating": 4,
+                "deskripsi": "A Mojito without alcohol, its combination of sweet and citrusy flavors makes it the summers go to.",
+                "penyajian": 2,
+                "createdAt": "2023-05-25T03:43:27.000Z",
+                "updatedAt": "2023-05-25T03:43:27.000Z"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+
+Color baseColor = const Color(0xffC3E54B);
+Color splashTheme = const Color(0xffFEF9E4);
+Color drinkColor = const Color(0xffF66372);
+Color abuPudar = const Color(0x80010101);
+Color buttonOnboard = const Color(0xff1E2742);
+Color searchColor = const Color(0xff9A9898);
+Color categories = const Color(0xff1E2742);
+Color seeAllBorder = const Color(0x40FB7D8A);
+Color seeAll = const Color(0xffFB7D8A);
+Color cardCategories = const Color(0xffFEF9E4);
+Color moon = const Color(0xffFDBEC5);
+Color bgStar = const Color(0xffE45362);
+Color star = const Color(0xffFFCE31);
+Color layer1 = const Color(0xffFCBABA);
+Color layer2 = const Color(0xffF9E0E2);
+Color timeDetail = const Color(0xff1E2742);
+Color difficultyDetail = const Color(0xff82B70B);
+Color categoryDetail = const Color(0xffF1A411);
+Color serveDetail = const Color(0xffFB7D8A);
+Color bgIngredient = const Color(0xffFEF9E4);
+Color borderIngredient = const Color(0xB3FBE897);

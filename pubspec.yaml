@@ -1,0 +1,58 @@
+name: uas4
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.19.4 <3.0.0"
+
+dependencies:
+  carousel_slider: ^4.2.1
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.0.2
+  get: 4.6.5
+  http: ^0.13.5
+  iconify_flutter: ^0.0.5
+
+dev_dependencies:
+  flutter_lints: 2.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Satisfy-Regular
+      fonts:
+        - asset: assets/fonts/Satisfy-Regular/Satisfy-Regular.ttf
+    - family: Anton
+      fonts:
+        - asset: assets/fonts/Anton/Anton-Regular.ttf
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf
+        - asset: assets/fonts/Raleway/Raleway-VariableFont_wght.ttf
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Black.ttf
+        - asset: assets/fonts/Poppins/Poppins-BlackItalic.ttf
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+        - asset: assets/fonts/Poppins/Poppins-BoldItalic.ttf
+        - asset: assets/fonts/Poppins/Poppins-ExtraBold.ttf
+        - asset: assets/fonts/Poppins/Poppins-ExtraBoldItalic.ttf
+        - asset: assets/fonts/Poppins/Poppins-SemiBold.ttf
+        - asset: assets/fonts/Poppins/Poppins-SemiBoldItalic.ttf
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+        - asset: assets/fonts/Poppins/Poppins-MediumItalic.ttf
+  assets:
+    - .env
+    - assets/json/drink.json
+    - assets/images/splashscreen_uas.png
+    - assets/images/drink.png
+    - assets/images/bgDetail.png
+    - assets/images/bgDetail2.png
+    - assets/images/logo.png
+    - assets/images/gabungan.png
+    - assets/images/gabungan2.png
+    - assets/images/gabungan-crop.png
